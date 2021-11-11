@@ -1,5 +1,5 @@
 {
-  "name": "rick-and-morty-challenge-rb",
+  "name": "rick-and-morty-challenge-rails",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
